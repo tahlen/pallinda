@@ -9,9 +9,9 @@ To pass the assignment, you must do all of the tasks. Small errors are acceptabl
 Please note that this is individual work. You may discuss the work with other students, but it is absolutely forbidden to submit copies of other student's work as your own. Please read and consider the [Code of Honour](https://www.kth.se/csc/utbildning/hederskodex) carefully.
 
 ### Submission
-All required work must be committed to your KTH Github Repository
-A week-{{number}} repository will be created for you automatically and it can be found [here](https://gits-14.sys.kth.se/INDA15).
-Please refer to the Kurswiki for help. Contact your teaching assistant or course leader if you get stuck.
+- All required work must be committed to your KTH Github Repository.
+- A week-{{number}} repository will be created for you automatically and it can be found [here](https://gits-14.sys.kth.se/INDA15).
+- Please refer to the Kurswiki for help. Contact your teaching assistant or course leader if you get stuck.
 
 ### Homework
 {{assignment specific text}}
