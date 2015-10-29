@@ -10,7 +10,7 @@ Please note that this is individual work. You may discuss the work with other st
 
 ### Submission
 - All required work must be committed to your KTH Github Repository.
-- A week-{{number}} repository will be created for you automatically and it can be found [here](https://gits-14.sys.kth.se/INDA15).
+- A week-{{number}} repository will be created for you automatically and it can be found [here](https://gits-15.sys.kth.se/INDA15).
 - Please refer to the Kurswiki for help. Contact your teaching assistant or course leader if you get stuck.
 
 ### Homework
