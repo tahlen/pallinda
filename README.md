@@ -13,6 +13,9 @@ Please note that this is individual work. You may discuss the work with other st
 - A week-{{number}} repository will be created for you automatically and it can be found [here](https://gits-15.sys.kth.se/INDA15).
 - Please refer to the Kurswiki for help. Contact your teaching assistant or course leader if you get stuck.
 
+### Exercise texts (new!)
+To make things easier for you, the questions for all hand-in exercises have been added to two files in the `docs/` folder of your repo (`solutions.tex` and `solutions.md`). It would be _super awesome_ for us assistants if you just add your written solutions after the corresponding questions in one of those files, but if you have a different workflow that you prefer then that's still OK.
+
 ### Homework
 {{assignment specific text}}
 
