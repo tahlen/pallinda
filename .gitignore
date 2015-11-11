@@ -9,6 +9,8 @@
  *.war
  *.ear
 
+# BlueJay
+*.ctxt
 
 ### TEX ###
 ## Core latex/pdflatex auxiliary files:
