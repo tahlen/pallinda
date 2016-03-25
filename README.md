@@ -62,7 +62,9 @@ Now, write a complete program that runs indefinitely and prints the following re
 
 To prevent the main program from exiting early, the following statement can be used:
 
-    select { }
+```Go
+select { }
+```
 
 In order to access time related functions, you should investigate the [time package](https://golang.org/pkg/time/), and discover how to get the current time in Go and also how you can format it neatly for human users to understand.  Remember to test and format your code.
 
@@ -70,23 +72,24 @@ In order to access time related functions, you should investigate the [time pack
 
 In this task you will complete the following partial program.  It adds all of the numbers in an array by splitting the array in half, then having two Go routines take care of each half.  Partial results are then sent over a channel.  Remember to test and format your code.
 
-    package main
+```Go
+package main
 
-    // Add adds the numbers in a and sends the result on res.
-    func Add(a []int, res chan <- int) {
-        // TODO
-    }
+// Add adds the numbers in a and sends the result on res.
+func Add(a []int, res chan <- int) {
+    // TODO
+}
 
-    func main() {
-        a := []int{1, 2, 3, 4, 5, 6, 7}
-        n := len(a)
-        ch := make(chan int)
-        go Add(a[:n/2], ch)
-        go Add(a[n/2:], ch)
+func main() {
+    a := []int{1, 2, 3, 4, 5, 6, 7}
+    n := len(a)
+    ch := make(chan int)
+    go Add(a[:n/2], ch)
+    go Add(a[n/2:], ch)
 
-        // TODO: Get the subtotals from the channel and print their sum.
-    }
-
+    // TODO: Get the subtotals from the channel and print their sum.
+}
+```
 See: [twopartsum.go](code/twopartsum.go) for source code to modify.
 
 ---
