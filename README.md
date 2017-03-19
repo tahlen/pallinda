@@ -1,6 +1,6 @@
 ### Deadline:
 
-This work should be completed before **Thursday 31st March**.
+This work should be completed before **23rd/24th March** (depending upon your övning group).
 
 ### Instructions:
 
@@ -11,7 +11,7 @@ Please note that this is individual work. You may discuss the work with other st
 ### Submission:
 
 * All required work must be committed to your KTH Github Repository
-* A repository will be created for you automatically and it can be found [here](https://gits-15.sys.kth.se/INDA15)
+* A repository will be created for you automatically and it can be found [here](https://gits-15.sys.kth.se/inda-16)
 * Please refer to the Kurswiki for help, contact your teaching assistant, or course leader if you get stuck
 
 ### Homework
@@ -34,11 +34,11 @@ The first task is to determine that you have a functioning Go environment on the
 In this task we shall follow the online exercises hosted on [A Tour of Go](http://tour.golang.org/welcome/1).  Start at the beginning and read through the tutorial. You are expected to submit solutions for the following exercises:
 
 * [Loops and Functions](http://tour.golang.org/flowcontrol/8)
-* [Slices](http://tour.golang.org/moretypes/15)
-* [Maps](http://tour.golang.org/moretypes/20)
-* [Fibbonacci Closure](http://tour.golang.org/moretypes/23)
+* [Slices](http://tour.golang.org/moretypes/18)
+* [Maps](http://tour.golang.org/moretypes/23)
+* [Fibbonacci Closure](http://tour.golang.org/moretypes/26)
 
-To finish with, you should become familiar with Go's unit testing framwork.  Try the example given in [Chp 12](https://www.golang-book.com/books/intro/12) of the Go book.  You can execute the tests as follows:
+To finish with, you should become familiar with Go's unit testing framework.  Try the example given in [Chp 12](https://www.golang-book.com/books/intro/12) of the Go book.  You can execute the tests as follows:
 
     $ go test
 
